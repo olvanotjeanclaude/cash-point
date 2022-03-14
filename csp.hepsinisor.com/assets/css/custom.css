@@ -1,0 +1,28 @@
+:root {
+    --orange: red, --telma: yellow, --airtel: green:
+}
+
+.prewrap {
+    white-space: pre-wrap;
+}
+
+.note-card {
+    min-height: 7rem;
+}
+
+.note-card .fa {
+    font-size: 27px;
+}
+
+.table-responsive {
+    display: none;
+}
+
+
+/* .page-content {
+    padding: 0;
+} */
+
+.bg-orang {
+    background: var(--orange);
+}

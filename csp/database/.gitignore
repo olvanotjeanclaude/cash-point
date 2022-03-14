@@ -1,0 +1,3 @@
+*.sqlite*
+*.vscode*
+/node_modules

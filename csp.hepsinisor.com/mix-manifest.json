@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/index.js": "/js/index.js",
+    "/js/alert-meeting.js": "/js/alert-meeting.js",
+    "/css/main.css": "/css/main.css",
+    "/js/vendors.js": "/js/vendors.js",
+    "/js/merged-datatable.js": "/js/merged-datatable.js",
+    "/js/merged-custom.js": "/js/merged-custom.js"
+}
